@@ -1,5 +1,5 @@
-.vscode
-.clangd
-.cache
-.xmake
-build
+.vscode/
+.clangd/
+.cache/
+.xmake/
+build/
