@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/bhqin/Documents/Course/EECS489-WN23/assignments/light-socks",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fPIC", "-Wall", "-Wextra", "-Weffc++", "-O3", "-std=c++17", "-Iinclude", "-Idns", "-DNDEBUG", "-o", "build/.objs/light_socks/linux/x86_64/release/src/dns_client.cpp.o", "src/dns_client.cpp"],
+  "file": "src/dns_client.cpp"
+},
+{
+  "directory": "/home/bhqin/Documents/Course/EECS489-WN23/assignments/light-socks",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fPIC", "-Wall", "-Wextra", "-Weffc++", "-O3", "-std=c++17", "-Iinclude", "-Idns", "-DNDEBUG", "-o", "build/.objs/light_socks/linux/x86_64/release/src/socket.cpp.o", "src/socket.cpp"],
+  "file": "src/socket.cpp"
+}]

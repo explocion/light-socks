@@ -1,0 +1,12 @@
+{
+    tool_target_light_socks_linux_x86_64_cxx = {
+        toolchain_info = {
+            cachekey = "gcc_arch_x86_64_plat_linux",
+            name = "gcc",
+            plat = "linux",
+            arch = "x86_64"
+        },
+        program = "/usr/bin/gcc",
+        toolname = "gcc"
+    }
+}
