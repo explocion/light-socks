@@ -13,5 +13,6 @@ public:
 
   static constexpr std::u16 DNS_PORT = 53;
 
-  DNSClient(const std::string &name);
+  DNSClient(const std::string &name, std::u16 port = DNS_PORT);
+  std::pair<DNSHeader, DNSRecord> query_name(const std::string &name) const;
 };
